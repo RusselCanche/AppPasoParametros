@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/op_cadenas"
+        android:title="@string/op_cadenas"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="1"
+        />
+    <item
+        android:id="@+id/op_numeros"
+        android:title="@string/op_numeros"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="2"/>
+    <item
+        android:id="@+id/op_arrays_simples"
+        android:title="@string/op_arrays_simples"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="3"/>
+    <item
+        android:id="@+id/op_serializables"
+        android:title="@string/op_serializables"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="4"/>
+    <item
+        android:id="@+id/op_array_objetos"
+        android:title="@string/op_array_objetos"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="5"/>
+    <item
+        android:id="@+id/op_objeto_parceleable"
+        android:title="@string/op_objeto_parceleable"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="6"/>
+    <item
+        android:id="@+id/op_arrays_parceleable"
+        android:orderInCategory="7"
+        android:title="@string/op_libros_parceleables"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/op_librosParcelables"
+        android:orderInCategory="8"
+        android:title="@string/op_libros_parceleables" />
+</menu>

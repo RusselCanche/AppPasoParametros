@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppPasoParametros</string>
+    <string name="op_cadenas">Paso de cadenas</string>
+    <string name="op_numeros">Paso de numeros</string>
+    <string name="op_arrays_simples">Paso de arrays simples</string>
+    <string name="op_serializables">Paso de objetos serializables</string>
+    <string name="op_array_objetos">Paso de array de objetos</string>
+    <string name="op_objeto_parceleable">Paso de objetos parceleables</string>
+    <string name="op_libros_parceleables">Paso de libros parcelables</string>
+    <string name="libros_disponibles">Libros</string>
+    <string name="none"> </string>
+</resources>

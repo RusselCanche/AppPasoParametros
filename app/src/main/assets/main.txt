@@ -1,0 +1,5 @@
+101010,Head Firts Android Development,Kathy Sierra,OReally,3th,Eng
+101011,Introduccion a JavaScript,Alondra Blanco,Solecito,2da,Esp
+101012,Clean Code,Randal Juhg,TWING,4th,Eng
+101013,Python para Web Scraping,Jhon Smith,Sun,1st,Esp
+101014,La Luna de Pluton,Dross,Erizona,2nd,Esp
